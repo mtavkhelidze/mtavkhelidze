@@ -1,3 +1,5 @@
-“What I cannot create, I do not understand.”
+> Everything is Kleisli. The rest is commentary.
+>
+> Dependency injections are given.
 
-— Richard Feynman
+What I cannot create, I do not understand. — Richard Feynman
